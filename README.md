@@ -44,7 +44,7 @@ WHERE
     quantity IS NULL OR price_per_unit IS NULL OR cogs IS NULL;
 ```
 
-## Data Analysis and FInding
+## Data Analysis and Finding
 Kueri SQL berikut dikembangkan untuk menjawab pertanyaan bisnis tertentu:
 ### 1. Memperoleh data penjualan pada tanggal 2022-11-05.
 ```SQL
